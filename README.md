@@ -7,6 +7,11 @@ Paper link:
 ## Datasets
 CIFAR-100, Imagenet-100, Tiny-Imagenet, and  Imagenet-1000. 
 
+## Installation
+Install all requirements required to run the code on a Python 3.x by:
+> First, activate a new virtual environment.
+> pip install -r requirements.txt
+
 ## Training
 
 ## Results
