@@ -29,7 +29,7 @@ Install all requirements required to run the code on a Python 3.x by:
 ## Training
 All commands should be run under the project root directory. 
 
-'sh run.sh'
+`sh run.sh`
 ## Results
 Results will be saved in log/ and model_saved_check/. 
 
