@@ -3,6 +3,8 @@ Non-Exemplar Class-Incremental Learning via Adaptive Old Class Reconstruction[AC
 
 Paper link:
 
+![image](https://github.com/Mysteriousplayer/POLO-NECIL/blob/main/model_v8.png)
+
 ![image](https://github.com/Mysteriousplayer/POLO-NECIL/blob/main/MATE_v1.png)
 
 ## Abstract
