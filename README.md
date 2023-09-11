@@ -29,6 +29,7 @@ Install all requirements required to run the code on a Python 3.x by:
 ## Training
 
 ## Results
+Results will be saved in log/ and model_saved_check/. 
 
 ## Citation
 If you found our work useful for your research, please cite our work:
