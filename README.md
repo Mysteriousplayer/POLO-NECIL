@@ -1,7 +1,7 @@
 # POLO-NECIL
 Non-Exemplar Class-Incremental Learning via Adaptive Old Class Reconstruction[ACM MM 23]
 
-Paper link:
+Paper link: https://dl.acm.org/doi/10.1145/3581783.3611926 
 
 
 ## Abstract
