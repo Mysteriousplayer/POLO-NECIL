@@ -30,8 +30,15 @@ Install all requirements required to run the code on a Python 3.x by:
 All commands should be run under the project root directory. 
 
 ```
-sh run_cifar.sh
-sh run_imagenet1000.sh
+polo_cifar:
+sh run_b50c10.sh
+sh run_b50c5.sh
+sh run_b40c3.sh
+
+The code is coming soon.
+polo_sub:
+polo_tiny:
+polo_imagenet1000:
 ```
 ## Results
 Results will be saved in log/ and model_saved_check/. 
