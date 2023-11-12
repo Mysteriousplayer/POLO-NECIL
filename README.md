@@ -45,3 +45,13 @@ Results will be saved in log/ and model_saved_check/.
 
 ## Citation
 If you found our work useful for your research, please cite our work:
+```
+@inproceedings{polo,
+author = {Wang, Shaokun and Shi, Weiwei and He, Yuhang and Yu, Yifan and Gong, Yihong},
+title = {Non-Exemplar Class-Incremental Learning via Adaptive Old Class Reconstruction},
+year = {2023},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {4524–4534},
+numpages = {11}
+}
+```
