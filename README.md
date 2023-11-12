@@ -43,6 +43,8 @@ polo_imagenet1000:
 ## Results
 Results will be saved in log/ and model_saved_check/. 
 
+Model link: 
+
 ## Citation
 If you found our work useful for your research, please cite our work:
 ```
