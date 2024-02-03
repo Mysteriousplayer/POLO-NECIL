@@ -35,10 +35,16 @@ sh run_b50c10.sh
 sh run_b50c5.sh
 sh run_b40c3.sh
 
-The code is coming soon.
 polo_sub:
+sh run_b50c10_sub.sh
+sh run_b50c5_sub.sh
+
+ 
 polo_tiny:
-polo_imagenet1000:
+sh run_b100c20.sh
+sh run_b100c10.sh
+sh run_b100c5.sh
+
 ```
 ## Results
 Results will be saved in log/ and model_saved_check/. 
